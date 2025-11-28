@@ -6,6 +6,8 @@ ETH
 PEPE
 OKX
 币安
+Bitcoin
+Ethereum
 
 宇树
 王兴兴
