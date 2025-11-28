@@ -9,6 +9,13 @@ OKX
 Bitcoin
 Ethereum
 
+GOLD
+黄金
+上期所
+上海期货交易所
+白银
+SILVER
+
 宇树
 王兴兴
 
